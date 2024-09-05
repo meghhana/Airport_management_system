@@ -1,2 +1,3 @@
 # Airport-management-system-
-Implemented using HTML,CSS,PHP and MySql. It is a database project which primarily deals with the management of Airport, airlines, passengers working for an airport.
+This mysql project is Iimplemented using HTML,CSS,PHP and MySql. It is a DBMS project which  deals with the management of Airport, airlines, passengers working for an airport.
+
